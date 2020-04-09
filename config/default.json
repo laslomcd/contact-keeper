@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb://lazlopanaflex.ddns.net:27017/contacts"
+  "mongoURI": "mongodb://lazlopanaflex.ddns.net:27017/contacts",
+  "jwtSecret": "secret"
 }
