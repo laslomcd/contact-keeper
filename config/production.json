@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://ryan:sdretft04@lazlopanaflex.ddns.net:27017/contacts?authSource=admin",
+  "jwtSecret": "secret"
+}
